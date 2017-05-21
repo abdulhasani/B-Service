@@ -1,6 +1,7 @@
-package com.bebaryan.b.service;
+package com.bebrayan.ngapak.core.service;
 
-import com.bebaryan.b.core.model.PersonModel;
+
+import com.bebrayan.ngapak.core.model.PersonModel;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
